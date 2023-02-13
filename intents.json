@@ -9,9 +9,14 @@
       {
         "tag": "greeting",
         "patterns": [
-          "Hi"
+          "Hi",
+           "hello",
+            "helo",
+            "how are you"
         ],
         "responses": [
+            "hello",
+            "We're fine",
           "Hey !!",
           "Hello, thanks for visiting"
          
